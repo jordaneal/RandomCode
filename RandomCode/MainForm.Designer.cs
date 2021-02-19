@@ -34,12 +34,12 @@ namespace RandomCode
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(255, 182);
+            this.button1.Location = new System.Drawing.Point(306, 183);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 28);
+            this.button1.Size = new System.Drawing.Size(189, 84);
             this.button1.TabIndex = 0;
-            this.button1.Text = "fuck u. FAIL";
+            this.button1.Text = "Centered";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // MainForm
