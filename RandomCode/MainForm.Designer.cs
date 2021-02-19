@@ -36,7 +36,7 @@ namespace RandomCode
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(306, 213);
+            this.button1.Location = new System.Drawing.Point(306, 176);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(189, 84);
@@ -47,7 +47,7 @@ namespace RandomCode
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(341, 155);
+            this.checkBox1.Location = new System.Drawing.Point(341, 118);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(119, 21);
             this.checkBox1.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace RandomCode
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(309, 334);
+            this.label1.Location = new System.Drawing.Point(309, 297);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(182, 36);
             this.label1.TabIndex = 2;
@@ -68,6 +68,7 @@ namespace RandomCode
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox1);
